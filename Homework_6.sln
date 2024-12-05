@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks_Tumakov", "Tasks_Tumakov\Tasks_Tumakov.csproj", "{2DF65FDE-6F17-4AA0-9DE9-E4FDDFA1DA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hairdressings_salon", "Hairdressings_salon\Hairdressings_salon.csproj", "{9E7F0608-1931-4004-B670-0310CE51FB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF65FDE-6F17-4AA0-9DE9-E4FDDFA1DA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF65FDE-6F17-4AA0-9DE9-E4FDDFA1DA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF65FDE-6F17-4AA0-9DE9-E4FDDFA1DA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF65FDE-6F17-4AA0-9DE9-E4FDDFA1DA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7F0608-1931-4004-B670-0310CE51FB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7F0608-1931-4004-B670-0310CE51FB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7F0608-1931-4004-B670-0310CE51FB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7F0608-1931-4004-B670-0310CE51FB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E704743C-5BA6-4338-A63F-C73B190C17F3}
+	EndGlobalSection
+EndGlobal
